@@ -52,7 +52,7 @@ class Home extends Component {
               </div>
               <div className="col-md-3 text-center">
                 <div className="card home-image-card">
-                  <img className="home-image" src="./img/harishrao.png" alt="Image not found" />
+                  <img className="home-image" src="./img/dqm.jpeg" alt="Image not found" />
                 </div>
               </div>
             </div>
