@@ -35,12 +35,12 @@ class Home extends Component {
             <div className="row">
               <div className="col-md-3 text-center">
                 <div className="card home-image-card">
-                  <img className="home-image" src="./img/gallery8.jpeg" alt="Image not found" />
+                  <img className="home-image" src="./img/hospital1.jpeg" alt="Image not found" />
                 </div>
               </div>
               <div className="col-md-6 text-center">
                 <p className="home-text">
-                  Khammam hospital was inaguarated on 15th March 1968 by Sri Kasu Brahmanada Reddy, CM of AP and started functioning in the year 1969 with 150 beds as District Head Quarters Hospital.
+                  Khammam hospital was inaugurated on 15th March 1968 by Sri Kasu Brahmanada Reddy, CM of AP and started functioning in the year 1969 with 150 beds as District Head Quarters Hospital.
                 </p>
                 <div>
                   <ul className="text-left home-text">
@@ -52,7 +52,7 @@ class Home extends Component {
               </div>
               <div className="col-md-3 text-center">
                 <div className="card home-image-card">
-                  <img className="home-image" src="./img/dqm.jpeg" alt="Image not found" />
+                  <img className="home-image" src="./img/hospital2.jpeg" alt="Image not found" />
                 </div>
               </div>
             </div>
@@ -85,8 +85,8 @@ class Home extends Component {
           <div className="container" style={{marginTop:"10%"}}>
             <div className="row">
               <div className="col-md-12 text-center">
-                <h4 className='home-head'>Scope of Specialities available at District Hospital Khammam</h4>
-                <h4 className='home-head'>Specialities available in the hospital</h4>
+                <h4 className='home-head'>Scope of Specialties available at District Hospital Khammam</h4>
+                <h4 className='home-head'>Specialties available in the hospital</h4>
               </div>
             </div>
             <div className="row">

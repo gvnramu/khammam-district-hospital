@@ -10,10 +10,8 @@ import reportWebVitals from './reportWebVitals';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
 import Home from './components/Home';
-import Login from './components/Login';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Registration from './components/Registration';
 
 const routing = (
 

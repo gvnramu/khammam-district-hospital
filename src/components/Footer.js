@@ -12,7 +12,7 @@ class Footer extends Component {
                                 <div className="col-sm-4 col-md col-sm-4  col-12 col footer-left-align">
                                     <h5 className="headin5_amrc col_white_amrc pt2">Find us</h5>
                                     {/*headin5_amrc*/}
-                                    <p className="mb10">Tealnagana governement was inaugurated 150 Bedded  MCH Block in the year 2017 and  became 400 bedded hospital.</p>
+                                    <p className="mb10">Tealnagana Government was inaugurated 150 Bedded  MCH Block in the year 2017 and  became 400 bedded hospital.</p>
                                     <p><i className="fa fa-location-arrow" /> 65X2+PRR, Nehru Nagar, Khammam, Telangana 507002 </p>
                                     {/* <p><i className="fa fa-phone" /> +91 8978766959 </p>
                                     <p><i className="fa fa fa-envelope" /> makerides@bikersroom.com </p> */}
@@ -32,15 +32,6 @@ class Footer extends Component {
                                 <li><a href="#awards">Awards</a></li>
                                 {/* <li><a href="#footer">Contact</a></li> */}
                             </ul>
-                            {/*foote_bottom_ul_amrc ends here*/}
-                            {/* <p className="text-center">Copyright @2017 | Designed With by <a href="#">Your Company Name</a></p>
-                            <ul className="social_footer_ul">
-                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
-                                <li><a href="#"><i className="fab fa-twitter" /></a></li>
-                                <li><a href="#"><i className="fab fa-linkedin" /></a></li>
-                                <li><a href="#"><i className="fab fa-instagram" /></a></li>
-                            </ul> */}
-                            {/*social_footer_ul ends here*/}
                         </div>
                     </footer>
                 </section>
